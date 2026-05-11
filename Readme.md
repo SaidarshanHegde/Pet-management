@@ -1,12 +1,16 @@
 # ONLINE PET STORE MANAGEMENT
-This is DBMS college project. Here we have used node.js ,express.js,and mongodb in backend and fetch api with some html and css in frontend 
+This is a DBMS project developed using a full-stack web architecture. The backend is built with Node.js, Express.js, and MongoDB, while the frontend is developed using HTML, CSS, and JavaScript with Fetch API for client-server communication. 
 
 
 ## Install Dependencies
 
-For Backend - npm i
+For Backend
+- cd Backend/
+- npm i
 
-For Frontend - cd frontend npm i
+For Frontend 
+- cd frontend
+- npm i
 
 ## Env Variables
 Essential Variables PORT= MONGODB_URI = JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE=  CLOUDINARY_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET _fill each filed with your info respectively.
@@ -20,5 +24,4 @@ Essential Variables PORT= MONGODB_URI = JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE=  
 ![Screenshot (59)](https://user-images.githubusercontent.com/94783587/228248518-bada257e-4227-4221-a1cd-3076d5838108.png)
 
 
-# online-pet
-# online-pet
+# online-pet-store
