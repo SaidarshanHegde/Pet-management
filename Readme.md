@@ -13,7 +13,8 @@ For Frontend
 - npm i
 
 ## Env Variables
-Essential Variables PORT= MONGODB_URI = JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE=  CLOUDINARY_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET _fill each filed with your info respectively.
+Essential Variables - PORT=  MONGODB_URI=  JWT_SECRET= J WT_EXPIRE=  COOKIE_EXPIRE=  CLOUDINARY_NAME=  CLOUDINARY_API_KEY=  CLOUDINARY_API_SECRET=  
+_fill each filed with your info respectively.
 
 ## Here are few snapshots 
 ![Screenshot (47)](https://user-images.githubusercontent.com/94783587/228248063-710c7418-26a2-471e-9a45-1a2ed5fa20aa.png)
