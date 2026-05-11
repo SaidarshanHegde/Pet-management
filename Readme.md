@@ -9,7 +9,7 @@ For Backend
 - npm i
 
 For Frontend 
-- cd frontend
+- cd Frontend/
 - npm i
 
 ## Env Variables
